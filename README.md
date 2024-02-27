@@ -1,3 +1,4 @@
+![logo](https://github.com/pradipkumarmadheshiya/pradipkumarmadheshiya/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pradip Kumar Madheshiya</h1>
 <h3 align="center">A passionate Algorithm Developer from India</h3>
 
