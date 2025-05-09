@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Pradip Kumar Madheshiya</h1>
 <h3 align="center">A passionate Fontend Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://pradip-portfolio.vercel.app/](https://pradip-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pradip-portfolio.vercel.app/](https://my-portfolio-ten-theta-10.vercel.app/)
 
 - 📫 How to reach me **prdpmadheshiya@gmail.com**
 
